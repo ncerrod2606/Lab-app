@@ -1,0 +1,8 @@
+DB Content:
+ID: 1 - Imagen: 1.jfif
+ID: 2 - Imagen: 
+Storage Content:
+.
+..
+.gitignore
+private
