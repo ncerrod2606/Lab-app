@@ -14,7 +14,7 @@ Route::get('about', [DashboardController::class, 'about'])->name('about');
 Route::get('sql', [DashboardController::class, 'sql'])->name('sql');
 Route::get('inyection', [DashboardController::class, 'inyection'])->name('inyection');
 
-// Auth routes (keep them for login functionality if needed, though user didn't specify removing auth)
+
 
 Route::get('imagen/{id}', [App\Http\Controllers\ImagenController::class, 'imagen'])->name('imagen');
 
